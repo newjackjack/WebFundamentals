@@ -36,7 +36,92 @@ button{
     /* gap: 50px; */
 }
 /*Profile block: 1. top_bar and icon 2. bottom list of contents*/
+/* .left_column{
 
+} */
+.upper_left{
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    background-color: white;
+    margin:10px;
+}
+.profile_page_top{
+    background-color: dodgerblue;
+    height: 50px;
+}
+.icon{
+    width: 20%;
+    position:relative;
+    top:-25px;
+    left: 8px;
+    
+}
+.profile_page_bottom{
+    background-color: white;
+    border-color: black;
+    /* margin: 0 auto; */
+}
+.profile_page_list{
+    list-style-type: none;
+    background-color: white;
+    padding:10px;
+    /* position:relative;
+    top: -5px;
+    left: 8px; */
+}
+.profile_name{
+    position:relative;
+    top:-35px;
+}
+.location{
+    position:relative;
+    margin:2px;
+    top:-20px;
+    align-items:top;
+}
+.location > img{
+    width: 10px;
+    margin:1px;
+    /* display:flex; */
+}
 
+.title{
+    position:relative;
+    top:-10px;
+}
+.edit_profile{
+    text-decoration: underline;
+    position:relative;
+    margin:1px;
+    top:5px;
+    align-items:top;
+}
+.edit_profile > img{
+    width: 15px;
+    align-items: center;
+}
+
+.bottom_left{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    margin: 10px
+}
+.edu_bar{
+    background-color: black;
+    color:white;
+    padding: 10px 15px;
+}
+.edu_list{
+    list-style-type: none;
+    margin:10px
+}
+.edu_ins{
+    font-size: 1.1em;
+}
+.time_period{
+    font-size: 0.8em;
+    color: gray;
+}
+/* Right Column */
 
 
