@@ -221,9 +221,9 @@ button{
 } */
 .connection_list{
     list-style-type: none;
-    display:flex;
+    /* display:flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center; */
     padding: 10px;
 }
 .list{
